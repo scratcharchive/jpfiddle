@@ -3,6 +3,9 @@ jupyterlite-core==0.3.0
 jupyterlab~=4.1.6
 notebook~=7.1.2
 
+# jfm
+jupyterlab-open-url-parameter
+
 
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.3.1
